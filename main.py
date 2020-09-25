@@ -7,3 +7,5 @@ print("hello world5")
 
 print("Hello World updates on Local PC")
 print("Local")
+
+print("Update 2 on Github Only")
